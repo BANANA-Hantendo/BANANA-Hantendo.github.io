@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "IDとパスワードを入力..."
-AuthUserFile "./.htpasswd"
-require valid-user
